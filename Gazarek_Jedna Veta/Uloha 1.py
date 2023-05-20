@@ -1,5 +1,5 @@
 
-file = open("txt.txt","r+", encoding="UTF-8")
+file = open("Gazarek_Jedna Veta/txt.txt","r+", encoding="UTF-8")
 
 whole_text = file.read()
 
